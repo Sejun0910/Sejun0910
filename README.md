@@ -49,6 +49,7 @@
  <img src="https://img.shields.io/badge/choisejun99@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </div>
 
+<br>
 
 ## STATUS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejun0910&show_icons=true&theme=dark)
