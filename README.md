@@ -1,4 +1,4 @@
-# 🐶 Haribboo / README.md
+🐶 Haribboo / README.md
 
 <br>
 
