@@ -50,10 +50,10 @@
 
 <br>
 
-## Status
+## 📊 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejun0910&show_icons=true&theme=dark)
 
 <br>
 
-## Used Language  
+## 🧑🏻‍💻 Used Language  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sejun0910&layout=compact&theme=dark)](https://github.com/Sejun0910/github-readme-stats)  
