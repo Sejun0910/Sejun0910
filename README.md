@@ -50,7 +50,7 @@
 
 <br>
 
-## STATUS
+## Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sejun0910&show_icons=true&theme=dark)
 
 <br>
