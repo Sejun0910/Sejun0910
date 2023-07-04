@@ -1,4 +1,4 @@
-🐶 Haribboo / README.md
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,100:535353&height=300&section=header&text=Hello%20I'm%20Sejun&fontSize=90&animation=fadeIn&fontAlignY=32&desc=Front-End%20Developer&descAlignY=51&descAlign=62" />
 
 <br>
 
