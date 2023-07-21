@@ -9,9 +9,7 @@
  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
 </div>
 
-
 <br/>
-
 
 <h3>Frontend</h3>
 <div>
